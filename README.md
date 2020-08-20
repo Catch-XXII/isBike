@@ -16,3 +16,4 @@ metot (post) ile İsbike uygulaması üzerinde hizmet veren tümistasyonların d
 
 https://api.ibb.gov.tr/ispark-bike/GetAllStationStatus
 
+![Image of isBike](https://github.com/Catch-XXII/isBike/blob/master/isbike.png)
